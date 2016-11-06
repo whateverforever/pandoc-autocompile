@@ -1,0 +1,18 @@
+{
+  "name": "pandoc-autocompile",
+  "main": "./lib/pandoc-autocompile",
+  "version": "1.0.0",
+  "description": "Auto compile (markdown) documents on save. Uses pandoc.",
+  "repository": "https://github.com/whateverforever/pandoc-autocompile",
+  "keywords": [
+	  "pandoc",
+	  "markdown",
+	  "on save",
+	  "autosave",
+	  "compile"
+  ],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
